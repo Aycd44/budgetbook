@@ -1,0 +1,10 @@
+[project]
+name = "budgetbook"
+version = "0.1.0"
+description = "Monthly spending reports from bank CSV exports"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

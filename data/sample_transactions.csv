@@ -1,0 +1,16 @@
+date,description,amount,category
+2025-01-04,Sobeys,-142.18,Groceries
+2025-01-11,NB Power,-189.40,Utilities
+2025-01-15,Payroll,"2,450.00",Income
+2025-01-22,Esso,-61.25,Transport
+2025-12-06,Sobeys,-155.02,Groceries
+2025-12-15,Payroll,"2,450.00",Income
+2025-12-19,Bell Mobility,-85.00,Utilities
+2026-01-03,Atlantic Superstore,-98.76,Groceries
+2026-01-10,NB Power,-204.11,Utilities
+2026-01-15,Payroll,"2,520.00",Income
+2026-01-18,Irving,-58.90,Transport
+2026-01-24,Sobeys,-121.44,Groceries
+27/01/2026,Atlantic Superstore refund,15.99,Groceries
+2026-02-02,Sobeys,-110.30,Groceries
+2026-02-15,Payroll,"2,520.00",Income
